@@ -56,10 +56,10 @@ The models were evaluated using Mean Absolute Percentage Error (MAPE).  Here's a
 | SVM                       | 0.187    | 
 | Random Forest Regressor  | 0.193    |
 | Linear Regression         | 0.187    |
-| CatBoost Regressor        | (Add your CatBoost result here) | 
+| CatBoost Regressor        | 0.383 | 
 
-As you can see, SVM and Linear Regression performed similarly well with the lowest MAPE scores. 
+As you can see, Catboost with the highest MAPE scores. 
 
 *It's important to note that these results may vary slightly depending on the specific training and testing splits of the data.*
 
-#
+
